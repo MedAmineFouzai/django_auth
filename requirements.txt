@@ -18,7 +18,7 @@ pytz==2020.1
 PyYAML==5.4
 six==1.15.0
 sqlparse==0.4.4
-tornado==6.3.3
+tornado==6.4.1
 typing-extensions==3.7.4.2
 whitenoise==5.1.0
 wincertstore==0.2
